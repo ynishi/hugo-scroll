@@ -203,6 +203,10 @@ a.btn {
   font-weight: lighter;
 }
 
+a.header-link {
+  background-color: #180a0a;
+}
+
 a.btn:hover {
   background: #86c440;
 }
